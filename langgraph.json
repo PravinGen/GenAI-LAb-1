@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "marketing_graph": "graphs.marketing_graph:build_graph",
+    "finance_graph": "graphs.finance_graph:build_graph"
+  },
+  "env": ".env"
+}
