@@ -12,6 +12,7 @@ BOOKS: dict[str, dict] = {
         "tags": ["programming", "C", "beginner"],
         "isbn": "9780131103627"
     },
+
     "B002": {
         "id": "B002",
         "title": "Clean Code",
@@ -208,6 +209,7 @@ BOOKS: dict[str, dict] = {
         "isbn": "9780804139298"
     }
 }
+
 
 STUDENTS: dict[str, dict] = {
     "S001": {
